@@ -1,0 +1,15 @@
+Mode of Transport_Id,Mode of Transport,Total Persons Died,Year
+MOT1,Truck/Lorry ,22637,2019
+MOT2,Bus ,9192,2019
+MOT3,SUV/Station Wagon/etc. ,6188,2019
+MOT4,Car ,21196,2019
+MOT5,Jeep ,3874,2019
+MOT6,Tractor,4451,2019
+MOT7,Three Wheeler/Auto Rickshaw ,7282,2019
+MOT8,Two Wheeler,58747,2019
+MOT9,Other Motor Vehicles,4098,2019
+MOT10,Bicycle,2000,2019
+MOT11,Hand Drawn Vehicle/Cycle Rickshaw,212,2019
+MOT12,Animal Drawn Vehicle,194,2019
+MOT13,Pedestrian,11961,2019
+MOT14,Others,2700,2019

@@ -1,0 +1,14 @@
+Category,Cause,Year,No. of Cases,Persons Injured_Male,Persons Injured_Female,Persons Injured_Trans,Persons Died_Male,Persons Died_Female,Persons Died_Trans,Percentage Share (Cases)
+Rural Area,Near School/College/Educational institution,2019,18753,14609,4206,0,5873,1194,0,4.3
+Rural Area,Near Residential Area,2019,75201,58760,16045,0,25326,4382,0,17.2
+Rural Area,Near Religious Place,2019,13191,10766,2846,0,3579,730,0,3
+Rural Area,Near Recreation Place/Cinema Hall,2019,11715,9824,2578,0,3212,537,0,2.7
+Rural Area,Near Factory,2019,12937,10682,2391,0,3738,670,0,3
+Rural Area,Others,2019,128582,118443,22788,0,44066,6053,0,29.4
+Urban Area,Near School/College/Educational institution,2019,18390,14414,3821,0,5095,1023,0,4.2
+Urban Area,Near Residential Area,2019,55742,41126,10430,0,14686,2763,1,12.7
+Urban Area,Near Religious Place,2019,10578,8131,2215,0,2993,556,0,2.4
+Urban Area,Near Recreation Place/Cinema Hall,2019,11722,8433,2227,0,2848,495,0,2.7
+Urban Area,Near Factory/Industrial area,2019,14480,10230,2792,0,3841,668,0,3.3
+Urban Area,At Pedestrian Crossing,2019,10591,6609,1905,0,2606,514,1,2.4
+Urban Area,Others,2019,55514,42820,10171,0,14724,2558,0,12.7

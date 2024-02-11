@@ -1,0 +1,14 @@
+Cause_ID,Cause,Year,No. of Cases,Persons Injured - Male,Persons Injured - Female,Persons Injured - Transgender,Persons Died - Male,Persons Died - Female,Persons Died - Transgender,Percentage Share (Cases)
+CAU1,Dangerous or Careless Driving//Over-taking/etc.,2018,109695,81873,18585,0,35562,6091,0,24.6
+CAU2,Over speeding,2018,264158,220983,54007,7,72849,11496,1,59.3
+CAU3,Driving under Influence of Drug/Alcohol,2018,8750,7416,926,0,2894,378,0,2
+CAU4,Physical Fatigue of Drivers,2018,1865,1685,414,0,686,126,0,0.4
+CAU5,Defect in Mechanical condition of Motor Vehicle,2018,4556,3618,874,0,1772,355,0,1
+CAU6,Animal Crossing,2018,3193,2740,749,0,1137,259,0,0.7
+CAU7,Poor Visibility Due to Weather,2018,4660,3202,812,0,1796,346,0,1
+CAU8,Others Causes due to Weather Conditions,2018,6263,5069,1062,0,1995,369,0,1.4
+CAU9,Lack of Road Infrastructure,2018,3401,2932,583,0,1031,206,0,0.8
+CAU10,Vehicles Parking at Road Shoulders,2018,3691,2539,714,0,1006,190,0,0.8
+CAU11,Causes Not Known,2018,7914,6148,1218,0,2560,427,0,1.8
+CAU12,Other Causes,2018,27368,24592,3770,0,7543,1705,0,6.1
+CAU13,Unmanned Railway Crossing Accidents,2018,40,0,0,0,32,8,0,0

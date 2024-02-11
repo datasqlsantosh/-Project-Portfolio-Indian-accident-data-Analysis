@@ -1,0 +1,14 @@
+Cause_ID,Cause,No. of Cases,Persons Injured_Male,Persons Injured_Female,Persons Injured_Trans,Persons Died_Male,Persons Died_Female,Persons Died_Trans,Percentage Share (Cases)
+CAU1,Dangerous or Careless Driving//Over-taking/etc.,112519,86769,19786,0,36332,6224,1,25.7
+CAU2,Over speeding,260898,218361,53220,0,74400,11840,1,59.6
+CAU3,Driving under Influence of Drug/Alcohol,7366,5775,900,0,2631,341,0,1.7
+CAU4,Physical Fatigue of Drivers,2749,2016,429,0,865,210,0,0.6
+CAU5,Defect in Mechanical condition of Motor Vehicle,4134,3320,791,0,1736,309,0,0.9
+CAU6,Animal Crossing,3540,2500,705,0,1241,239,0,0.8
+CAU7,Poor Visibility Due to Weather,6161,4660,1074,0,2297,490,0,1.4
+CAU8,Others Causes due to Weather Conditions,5142,4181,900,0,1787,379,0,1.2
+CAU9,Lack of Road Infrastructure,2361,1734,391,0,1083,229,0,0.5
+CAU10,Vehicles Parking at Road Shoulders,2935,2015,514,0,1077,212,0,0.7
+CAU11,Causes Not Known,7803,6516,1572,0,2419,386,0,1.8
+CAU12,Other Causes,21788,17000,4133,0,6719,1284,0,5
+CAU13,Unmanned Railway Crossing Accidents,47,0,0,0,36,11,0,0

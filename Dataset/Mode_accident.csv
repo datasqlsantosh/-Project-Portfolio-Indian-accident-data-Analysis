@@ -1,0 +1,43 @@
+Mode of Transport_Id,Mode of Transport,Total Persons Died,Year
+MOT1,Truck/Lorry ,24260,2018
+MOT2,Bus ,10514,2018
+MOT3,SUV/Station Wagon/etc. ,6359,2018
+MOT4,Car ,21290,2018
+MOT5,Jeep ,4873,2018
+MOT6,Tractor,4661,2018
+MOT7,Three Wheeler/Auto Rickshaw ,7276,2018
+MOT8,Two Wheeler,54610,2018
+MOT9,Other Motor Vehicles,4025,2018
+MOT10,Bicycle,1614,2018
+MOT11,Hand Drawn Vehicle/Cycle Rickshaw,94,2018
+MOT12,Animal Drawn Vehicle,150,2018
+MOT13,Pedestrian,10482,2018
+MOT14,Others,2572,2018
+MOT1,Truck/Lorry ,25108,2017
+MOT2,Bus ,10699,2017
+MOT3,SUV/Station Wagon/etc. ,5671,2017
+MOT4,Car ,20937,2017
+MOT5,Jeep ,5374,2017
+MOT6,Tractor,5073,2017
+MOT7,Three Wheeler/Auto Rickshaw ,7107,2017
+MOT8,Two Wheeler,52359,2017
+MOT9,Other Motor Vehicles,4708,2017
+MOT10,Bicycle,1785,2017
+MOT11,Hand Drawn Vehicle/Cycle Rickshaw,274,2017
+MOT12,Animal Drawn Vehicle,242,2017
+MOT13,Pedestrian,8659,2017
+MOT14,Others,2097,2017
+MOT1,Truck/Lorry ,22637,2019
+MOT2,Bus ,9192,2019
+MOT3,SUV/Station Wagon/etc. ,6188,2019
+MOT4,Car ,21196,2019
+MOT5,Jeep ,3874,2019
+MOT6,Tractor,4451,2019
+MOT7,Three Wheeler/Auto Rickshaw ,7282,2019
+MOT8,Two Wheeler,58747,2019
+MOT9,Other Motor Vehicles,4098,2019
+MOT10,Bicycle,2000,2019
+MOT11,Hand Drawn Vehicle/Cycle Rickshaw,212,2019
+MOT12,Animal Drawn Vehicle,194,2019
+MOT13,Pedestrian,11961,2019
+MOT14,Others,2700,2019

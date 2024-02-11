@@ -1,0 +1,27 @@
+Category,Cause,Year,No. of Cases,Persons Injured - Male,Persons Injured - Female,Persons Injured - Transgender,Persons Died - Male,Persons Died - Female,Persons Died - Transgender,Percentage Share (Cases)
+Rural Area,Near School/College/Educational institution,2018,21193,17860,3538,0,6065,1322,0,4.8
+Rural Area,Near Residential Area,2018,76294,61251,15527,7,26065,4117,1,17.1
+Rural Area,Near Religious Place,2018,11309,10021,2529,0,3238,751,0,2.5
+Rural Area,Near Recreation Place/Cinema Hall,2018,9673,8612,2188,0,2787,484,0,2.2
+Rural Area,Near Factory,2018,10807,8834,2143,0,3626,650,0,2.4
+Rural Area,Others,2018,129885,115784,23019,0,39538,6128,0,29.2
+Urban Area,Near School/College/Educational institution,2018,17092,12552,2904,0,4281,867,0,3.8
+Urban Area,Near Residential Area,2018,60192,44802,11432,0,16578,2847,0,13.5
+Urban Area,Near Religious Place,2018,8717,6825,1699,0,2503,497,0,2
+Urban Area,Near Recreation Place/Cinema Hall,2018,11721,8866,1884,0,3149,548,0,2.6
+Urban Area,Near Factory/Industrial area,2018,13655,10577,2311,0,3963,601,0,3.1
+Urban Area,At Pedestrian Crossing,2018,10302,6886,1791,0,2413,472,0,2.3
+Urban Area,Others,2018,64674,49927,12749,0,16625,2664,0,14.5
+Rural Area,Near School/College/Educational institution,2019,18753,14609,4206,0,5873,1194,0,4.3
+Rural Area,Near Residential Area,2019,75201,58760,16045,0,25326,4382,0,17.2
+Rural Area,Near Religious Place,2019,13191,10766,2846,0,3579,730,0,3
+Rural Area,Near Recreation Place/Cinema Hall,2019,11715,9824,2578,0,3212,537,0,2.7
+Rural Area,Near Factory,2019,12937,10682,2391,0,3738,670,0,3
+Rural Area,Others,2019,128582,118443,22788,0,44066,6053,0,29.4
+Urban Area,Near School/College/Educational institution,2019,18390,14414,3821,0,5095,1023,0,4.2
+Urban Area,Near Residential Area,2019,55742,41126,10430,0,14686,2763,1,12.7
+Urban Area,Near Religious Place,2019,10578,8131,2215,0,2993,556,0,2.4
+Urban Area,Near Recreation Place/Cinema Hall,2019,11722,8433,2227,0,2848,495,0,2.7
+Urban Area,Near Factory/Industrial area,2019,14480,10230,2792,0,3841,668,0,3.3
+Urban Area,At Pedestrian Crossing,2019,10591,6609,1905,0,2606,514,1,2.4
+Urban Area,Others,2019,55514,42820,10171,0,14724,2558,0,12.7
